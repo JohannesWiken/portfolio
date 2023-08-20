@@ -1,0 +1,60 @@
+
+.main_page {
+    background-color: #e8f3d8;
+}
+.resume_page {
+    background-color: #e8f3d8;
+    height: 100vh;
+  
+}
+
+#hero-button {
+    border-color: black;
+    color: black;
+
+}
+#hero-button:hover {
+    background-color: black;
+    color: white;
+}
+
+#resume-button {
+    border-color: black;
+    color: black;
+}
+
+#resume-button:hover {
+    background-color: black;
+    color: white;
+}
+#contact-link {
+    text-decoration: none;
+    color: black;
+  }
+#contact-link:hover {
+    color: white;
+}
+
+p {
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+svg {
+    height: 60px;
+}
+
+.profile-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    height: 220px;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    height: 250px;
+}
